@@ -1,6 +1,6 @@
 # Skinner_App
 <div align=center>
-  <img src="https://lh3.googleusercontent.com/proxy/eYcXU_MaSfV1sT10eLfNHm1NVLkRikNh5bcrNEdURg3K2o2bIiVvTagjaLuIxJNlyiiTv5JQ-pwSCRmCD4-2LKd61y3_VW2GLakK4bdm7QOFyNrQGo4"   width=200>
+  <img src="https://lh3.googleusercontent.com/proxy/XhV_Afz95sRH1jFtK2eof1SPamxki5Ih4HpIktw5eriO5zVy7RMoAGUXDif1YCpimAxK9bh6_AUoCFQdJbSXD2AhKLjdNoJNYvr2ZLS0Zy4D5Ch8jbY"   width=200>
   </div>
 
 <h2 align=center>Aplicación Skinner desarrollada en Android Studio para el Proyecto de Fin de Carrera de Ingeniería en Informática de la Universidad de La Matanza.</h2>
